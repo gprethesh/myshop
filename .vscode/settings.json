@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "json.schemas": [
+    
+{
+    "exclude":["node_modules"]
+  }
+    ]
+}
